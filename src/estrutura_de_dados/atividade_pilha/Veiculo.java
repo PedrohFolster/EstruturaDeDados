@@ -68,7 +68,6 @@ public class Veiculo {
         }
     }
 
-
     public void exibirListaDePassageiros() {
         if (passageiros.isEmpty()) {
             System.out.println("Não há passageiros a bordo.");
